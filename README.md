@@ -16,12 +16,12 @@ After choosing what will be ordered, you will finish it in a very simple way and
 
 **Back-end:** Node, Express, prisma, multer & insomnia
 
-**Back de dados:** Beekeper
+**Banco de dados:** Beekeper
 
 
 ## Melhorias
 
-projeto em front APP & WEB em desenvolvimento.
+Front-end APP & WEB em desenvolvimento.
 
 APP & WEB front project under development. .
 
